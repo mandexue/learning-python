@@ -1,5 +1,4 @@
 # learning-python
-print("hello world")
 def reverse_complement(seq):
     ntComplement = {'A':'T', 'C':'G', 'T':'A', 'G':'C'}
      
